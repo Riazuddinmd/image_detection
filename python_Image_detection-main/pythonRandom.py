@@ -10,7 +10,7 @@ chosenRange = 20
 previous_frame = None
 prepared_frame = None
 old_frame = None
-# Change the first field passed into the method to change camera port
+# Change the first field passed into the method to change camera port hello
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 hasSelected = False
 noFunctionCalls= True
